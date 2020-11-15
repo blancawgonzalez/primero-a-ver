@@ -1,0 +1,46 @@
+
+\begin{document}
+
+
+\begin{titlepage}
+    \AddToShipoutPicture*{\BackgroundPic}
+
+    \begin{addmargin}[2.575cm]{0cm}
+        \begin{flushleft}
+            \Large
+            \hfill\vfil
+
+            \large{\textsf{Escuela Técnica Superior en Ingenierías Informática y de Telecomunicación}}
+            \vfill
+
+            {\large\textsc{Máster Universitario en Ingeniería Informática}} \vfill
+
+
+            {\large\textsc{trabajo de fin de máster}}
+
+            \begingroup
+            \Huge{Sistema de Fog-Computing para Control Distribuido}
+            \endgroup
+
+            \vfill\vfill\vfill\vfill
+
+            \textsf{\normalsize{Presentado por:}}\\
+            {\normalsize\textrm{Víctor Vázquez Rodríguez}}
+            \bigskip
+
+            \textsf{\normalsize{Tutor:}}\\
+            {\normalsize\rmfamily{
+                Antonio Javier Díaz Alonso\\
+                \emph{Departamento de Arquitectura y Tecnología de Computadores}
+            }}
+
+            \bigskip
+            \textsf{\normalsize{Curso académico 2020-2021}}
+        \end{flushleft}
+    \end{addmargin}
+\end{titlepage}
+
+\cleardoublepage
+
+
+\end{document}
